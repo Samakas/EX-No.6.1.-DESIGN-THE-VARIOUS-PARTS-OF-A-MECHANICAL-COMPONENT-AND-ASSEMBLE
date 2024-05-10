@@ -1,6 +1,6 @@
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
-## DATE:
+## DATE:10/05/2024
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -63,6 +63,11 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+![Screenshot 2024-05-10 082528](https://github.com/Samakas/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/154731670/b78636ab-653b-4bc8-b2f1-b738e37fe6eb)
+![Screenshot 2024-05-10 083014](https://github.com/Samakas/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/154731670/69a452a6-413d-4113-b29d-09e61fc94a53)
+![Screenshot 2024-05-10 083432](https://github.com/Samakas/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/154731670/f484a9d0-db0b-4594-a016-8a9b8bcd71f0)
+![Screenshot 2024-05-10 084412](https://github.com/Samakas/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/154731670/bcd8a4e2-0809-437a-8787-2961e086082b)
+![Screenshot 2024-05-09 223028](https://github.com/Samakas/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/154731670/47991a53-5a7b-4e5f-80a5-a6f13f264151)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
